@@ -1,4 +1,5 @@
 # hello-world
-This is a repository for practicing the GitHub workflow  
-HI guys this a prohect to get me started using git and know how to  use it.  
-Cool yeah i know 
+This is a repository for practising the GitHub workflow  
+HI guys this a project to get me started using git and know how to  use it.  
+Cool yeah I know   
+So I will be adding a few more lines here
